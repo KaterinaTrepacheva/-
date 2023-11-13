@@ -22,7 +22,9 @@
 
   <li>Задача №2.</li>
  Пересчитать план найма преподавателей с учетом новых данных, изменив значения пропускной способности и ретеншена преподавателей.
-![image](https://github.com/KaterinaTrepacheva/AD/assets/150717109/b941238d-7f72-4750-ac88-1acc71496532)
+																							
+![image](https://github.com/KaterinaTrepacheva/AD/assets/150717109/d7ffb357-5923-4e36-a5ec-5f4f185087df)
+
 
 
 
