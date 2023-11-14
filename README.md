@@ -42,6 +42,8 @@
 Демонстрация дешбордов.
 
 
+> <a href="[https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://github.com/KaterinaTrepacheva/AD/blob/3ed1d76bab6596c6d15b08168c2495a42082ffbd/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.pptx)https://github.com/KaterinaTrepacheva/AD/blob/3ed1d76bab6596c6d15b08168c2495a42082ffbd/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.pptx">Ссылка на проект</a>
+
 
 ## Контактная информация 📩
 - Email: trepacheva.katerina@mail.ru
