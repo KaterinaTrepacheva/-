@@ -41,7 +41,7 @@
 <li>Задача №3</li>
 Демонстрация дешбордов.
 
-> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
+> <a href="Проект 1.pptx">Ссылка на проект</a>
 
 ## Контактная информация 📩
 - Email: trepacheva.katerina@mail.ru
